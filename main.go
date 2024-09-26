@@ -12,4 +12,7 @@ func main() {
 
 	Keyur(21, 13)
 	//created by Keyur Ambekar(500229862)
+
+	//created by Arpan Vaghani(500221873)
+	getSquare(9)
 }
