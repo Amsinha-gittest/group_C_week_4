@@ -4,6 +4,10 @@ import "fmt"
 
 func main() {
 	fmt.Println("Welcome to Group C's Week 4 Project!")
+	var s = "Golang"
+	if newWord, length, err := RepeatWord(s, 5); err == nil { // Note that 'RepeatWord' is now in a different package
+		fmt.Printf("Repeated word [%s], length is [%d]\n", newWord, length)
+	}
 	//created by Vedant Acharya(500229860)
 	Pyramid(7)
 
