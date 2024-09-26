@@ -8,6 +8,7 @@ func main() {
 	if newWord, length, err := RepeatWord(s, 5); err == nil { // Note that 'RepeatWord' is now in a different package
 		fmt.Printf("Repeated word [%s], length is [%d]\n", newWord, length)
 	}
+		fmt.Println(max(3, 100))
 	//created by Vedant Acharya(500229860)
 	Pyramid(7)
 
