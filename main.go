@@ -20,5 +20,6 @@ func main() {
 	//created by Arpan Vaghani(500221873)
 	getSquare(9)
 
-	//created by Parita
+	//created by Aman Sinha(500219257)
+
 }
