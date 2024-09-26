@@ -21,6 +21,6 @@ func main() {
 	getSquare(9)
 
 	//created by Aman Sinha(500219257)
-	intToBin(123)
+	intToBin(1234)
 
 }
